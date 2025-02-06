@@ -7,11 +7,17 @@ You have recently joined the Cymbal Bank as a junior cloud security analyst wher
 ### Skills Learned
 
 Cloud Networking (VPC, subnets, routing)
+
 Command-Line Interface (CLI) (Google Cloud SDK, AWS CLI)
+
 Infrastructure as Code (IaC) (automation via commands/scripts)
+
 Linux & Shell Scripting (basic scripting for automation)
+
 Security & Access Management (IAM roles, firewall rules)
+
 Networking Basics (CIDR blocks, IP addressing, NAT, VPNs)
+
 
 ### Tools Used
 
